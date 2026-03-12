@@ -48,7 +48,7 @@ export function FooterV2() {
               <a href="https://www.instagram.com/naminsoo_ai/" target="_blank" rel="noopener noreferrer" className="text-sm font-bold uppercase tracking-widest hover:text-[#FFE87A] transition-colors flex items-center justify-between w-full max-w-[150px] gap-4">
                 <span>Instagram</span> <span className="text-[#FFE87A] text-[10px]">1만+</span>
               </a>
-              <a href="https://open.kakao.com/me/naminsoo_ai" target="_blank" rel="noopener noreferrer" className="text-sm font-bold uppercase tracking-widest hover:text-[#FFE87A] transition-colors flex items-center justify-between w-full max-w-[150px] gap-4">
+              <a href="https://open.kakao.com/o/gT0uVxJh" target="_blank" rel="noopener noreferrer" className="text-sm font-bold uppercase tracking-widest hover:text-[#FFE87A] transition-colors flex items-center justify-between w-full max-w-[150px] gap-4">
                 <span>Kakao</span> <span className="text-[#FFE87A] text-[10px]">3.6k+</span>
               </a>
               <a href="https://www.youtube.com/@naminsoo_ai" target="_blank" rel="noopener noreferrer" className="text-sm font-bold uppercase tracking-widest hover:text-[#FFE87A] transition-colors flex items-center justify-between w-full max-w-[150px] gap-4">
