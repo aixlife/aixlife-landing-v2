@@ -1,0 +1,17 @@
+packages:
+  "framer-motion": "For premium scroll animations, staggered reveals, and sophisticated micro-interactions"
+  "clsx": "For conditional class merging in reusable UI components"
+  "tailwind-merge": "For resolving Tailwind class conflicts safely"
+
+images:
+  - path: "artifacts/aixlife-landing/public/images/hero-bg.png"
+    description: "Futuristic dark abstract background with deep navy blue tones and glowing electric cyan and neon blue light trails, representing AI technology and data flow, highly cinematic, 8k resolution, clean modern corporate aesthetic"
+    aspect_ratio: "16:9"
+  - path: "artifacts/aixlife-landing/public/images/avatar.png"
+    description: "Professional corporate portrait silhouette of an AI instructor against a dark futuristic background with subtle cyan rim lighting, minimalist and premium"
+    aspect_ratio: "1:1"
+
+notes:
+  - The landing page is completely static as requested.
+  - Used Framer Motion for scroll animations to meet the 'premium' and 'stunning' visual requirements.
+  - Hardcoded dark theme in index.css to match the "dark mode premium professional, futuristic AI tech vibes" direction.
